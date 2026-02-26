@@ -1,2 +1,11 @@
+# Configuration sensible
 config.php
 includes/db.php
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers temporaires
+/vendor/
+/node_modules/
